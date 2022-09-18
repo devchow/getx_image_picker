@@ -12,6 +12,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  get: ^4.3.8
+  image_picker: ^0.8.4+4
 
 dev_dependencies:
   flutter_test:
@@ -21,5 +23,5 @@ dev_dependencies:
 flutter:
   uses-material-design: true
 
-  # assets:
-  #   - assets/
+  assets:
+    - assets/
